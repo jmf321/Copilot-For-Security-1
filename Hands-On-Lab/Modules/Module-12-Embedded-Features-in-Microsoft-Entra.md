@@ -65,4 +65,4 @@ For this example, let’s start off by asking Security Copilot in Entra about a 
 </p></p>
 Try out any of these prompts to see how Security Copilot can improve your Entra troubleshooting experience.
 </p></p>
-You have now completed this module, please click <a href="https://aka.ms/CFSDeleteSCU">here</a> to delete the SCUs and complete the course.
+You have now completed this module, please click <a href="Deleting-SCU.md">here</a> to delete the SCUs and complete the course.
