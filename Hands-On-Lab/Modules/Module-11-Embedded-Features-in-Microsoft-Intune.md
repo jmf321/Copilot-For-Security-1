@@ -130,4 +130,5 @@ You will see the results of what is running on the endpoint.
 <img width="1280" alt="Intune27" src="https://github.com/user-attachments/assets/ba5d1150-e89b-49c4-803b-714c2f04f552">
 </p></p>
 <h4>These are just some of the powerful capabilities that become available when Microsoft Security Copilot is enabled in your environment.</h4>
-Please click <a href="https://aka.ms/CfSModule12">here</a> to go to the next Advanced Module (Microsoft Entra) or click <a href="https://aka.ms/CFSDeleteSCU">here</a> to delete the SCUs and complete the course.
+</p></p>
+Please click <a href="Module-12-Embedded-Features-in-Microsoft-Entra.md">here</a> to go to the next Advanced Module (Microsoft Entra) or click <a href="Deleting-SCU.md">here</a> to delete the SCUs and complete the course.
