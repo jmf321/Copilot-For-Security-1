@@ -133,4 +133,4 @@ The primary objective is to showcase a summary of the latest threat intelligence
 #### Beginner and Advanced Modules are now complete!
 You now have 2 options:
 1. Click [here](Deleting-SCU.md) to go to the delete SCU module and finish the course. You may re-install Security Copilot at a later date if you wish to continue on to the additional modules. 
-2. Click [here](AdditionalSCUs) to continue on to the additional modules and add the extra SCUs needed.
+2. Click [here](AdditionalSCUs.md) to continue on to the additional modules and add the extra SCUs needed.
