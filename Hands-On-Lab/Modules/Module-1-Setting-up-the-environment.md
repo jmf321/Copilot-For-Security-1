@@ -129,4 +129,4 @@ If you could not complete the lab previously and are returning to resume, then g
 
 13. Click on "Overview" and then click "Enable" which is located at the top of the screen --->
 
-Click [here](https://aka.ms/CfSModule2) to complete the next Module.
+Click [here](Modules/Module-2-Script-analysis.md) to complete the next Module.
