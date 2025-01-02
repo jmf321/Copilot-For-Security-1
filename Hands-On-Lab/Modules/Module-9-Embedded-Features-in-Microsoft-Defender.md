@@ -75,4 +75,4 @@ The first Microsoft Security Copilot feature you will notice is how an Incident 
 </p></p>
 <h4>These are just some of the powerful features that become available in Microsoft Defender when Microsoft Security Copilot is enabled.</h4>
 
-Please click <a href="https://aka.ms/CfSModule10">here</a> to go to the next Advanced Module (E-Discovery in Microsoft Purview) or click <a href="https://aka.ms/CFSDeleteSCU">here</a> to delete the SCUs and complete the course.
+Please click <a href="Module-10-eDiscovery-Search-in-Microsoft-Purview.md">here</a> to go to the next Advanced Module (E-Discovery in Microsoft Purview) or click <a href="Deleting-SCU.md">here</a> to delete the SCUs and complete the course.
