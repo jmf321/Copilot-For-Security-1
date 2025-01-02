@@ -12,7 +12,7 @@ This module guides you through how to use Copilot for Security for summarization
 - You must have completed Module 1 or have an existing instance of Copilot For Security installed. If you do not have a working instance of Copilot for Security, please [click here to complete Module 1](..Modules/Module-1-Setting-up-the-the-environment.md#module-1---setting-up-the-environment).
 - The plugin for Microsoft Defender Threat Intelligence must be enabled on Copilot for Security.
 
-[![Plugin Threat Intel](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/pluginthreatintel.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/pluginthreatintel.png)
+[![Plugin Threat Intel](../Images/pluginthreatintel.png)](../Images/pluginthreatintel.png)
 
 ## Exercise 1 - Summarization of vulnerability Data
 
@@ -88,5 +88,5 @@ This module guides you through how to use Copilot for Security for summarization
 
 *Expectation: Sample mobile device policy.*
 
-You have now completed the beginner training of Copilot for Security. If you would like to continue to the more advanced use cases then please click [here](https://aka.ms/CfSModule5) for Module 5 or click [here](https://aka.ms/CfSModule9) to delete the SCU capacity to ensure there are no additional costs.
+You have now completed the beginner training of Copilot for Security. If you would like to continue to the more advanced use cases then please click [here](Module-5-Generating-KQL-queries.md) for Module 5 or click [here](Deleting-SCU.md) to delete the SCU capacity to ensure there are no additional costs.
 
