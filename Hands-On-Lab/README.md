@@ -8,7 +8,7 @@ These labs will help you to get ramped up with Microsoft Security Copilot and pr
 
 The lab deploys a Microsoft Azure Resource Group, a Microsoft Security Copilot workspace, and a Microsoft Sentinel workspace and ingests pre-recorded data to simulate scenarios that showcase various Microsoft Security Copilot features. To complete the Beginner & Advanced modules you should expect a cost no more than $150 for Security Compute Units (SCU) and this will allow you to complete the scenarios in under 3 hours (for up to 3 users). The SCUs must be removed to ensure there is no additional cost. The additional modules will cost an extra $150 and a further 2 hours of your time. The SCUs must be removed once complete, to ensure there is no additional cost.
 
-**NOTE:** If for any reason you cannot complete the lab and would like to resume at a later date please [click here](https://aka.ms/CFSDeleteSCU) for instructions to delete the environment immediately to stop SCU costs. If you would like to resume at a later date then you can complete Module 1, Exercise 1.
+**NOTE:** If for any reason you cannot complete the lab and would like to resume at a later date please [click here](Modules/Deleting-SCU.md#exercise-1---delete-scu-capacity) for instructions to delete the environment immediately to stop SCU costs. If you would like to resume at a later date then you can complete Module 1, Exercise 1.
 
 ## Prerequisites 
 ### Beginner and Advanced Modules
