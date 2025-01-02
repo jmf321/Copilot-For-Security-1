@@ -20,7 +20,7 @@ In this technical workshop, participants will learn how to upload a file to Copi
 
 1. Check that the file you're about to upload is a common text file type like DOCX, MD, PDF, and TXT formats, and that each file doesn't exceed 3 MB. You can upload files up to 20 MB in total.
 2. In the Copilot home page, select the sources icon in the prompt bar to open the Manage sources page.
-3. Select "Files" to open the file upload section. You can use the sample files from the following [SampleFiles folder](https://github.com/jmf321/CfS-Hands-On-Training/tree/main/SampleFiles) 
+3. Select "Files" to open the file upload section. You can use the sample files from the following [SampleFiles folder](../tree/main/SampleFiles) 
 
 
 ![Kb1 Image](https://github.com/jmf321/CfS-Hands-On-Training/raw/main/Images/Kb1.png)
