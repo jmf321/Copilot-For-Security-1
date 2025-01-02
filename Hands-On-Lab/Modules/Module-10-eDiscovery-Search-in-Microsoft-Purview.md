@@ -115,5 +115,5 @@ In this exercise, we will show you how to access Microsoft Purview and using AI 
 <img width="696" alt="PurviewD4" src="https://github.com/user-attachments/assets/b55611d0-4a78-4d9b-a0cb-5cc5cbc872a8">
 </p></p>
 This feature gives the analyst a very quick view of the alert so they can decide what is the next best action. Maybe it is clicking to get more details within Microsoft Purview. Maybe its taking these finds to the stand alone version of Security Copilot to either investigate other resources or create a message using the power of AI summary capabilities. Maybe it’s an alert that can be ignored. The point is that AI makes this decision process much faster using the alert summary capabilities of Security Copilot built into Microsoft Purview. 
-
+</p></p>
 Please click <a href="Module-11-Embedded-Features-in-Microsoft-Intune.md">here</a> to go to the next Advanced Module (Microsoft Intune) or click <a href="Deleting-SCU.md">here</a> to delete the SCUs and complete the course.
