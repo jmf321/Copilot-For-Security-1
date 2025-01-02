@@ -12,7 +12,7 @@ This module guides you through how to use Copilot for Security for use case scen
 - You must have completed Module 1 or have an existing instance of Copilot For Security installed. If you do not have a working instance of Copilot for Security, please [click here to complete Module 1](..Modules/Module-1-Setting-up-the-the-environment.md#module-1---setting-up-the-environment).
 - The plugin for Microsoft Defender Threat Intelligence must be enabled on Copilot for Security.
 
-[![Plugin Threat Intel](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/pluginthreatintel.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/pluginthreatintel.png)
+[![Plugin Threat Intel](../Images/pluginthreatintel.png)](../Images/pluginthreatintel.png)
 
 
 ### Exercise 1: Get Recent Threat Intelligence
@@ -23,7 +23,7 @@ This module guides you through how to use Copilot for Security for use case scen
   ```
 2. Review the result.
 
-[![Threat Intelligence Prompt 1](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%201.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%201.png)
+[![Threat Intelligence Prompt 1](../Images/Threat%20intellogence%20prompt%201.png)](../Images/Threat%20intellogence%20prompt%201.png)
 
 *Expectation: Summarization of recently published threat intelligence.*
 
@@ -36,7 +36,7 @@ This module guides you through how to use Copilot for Security for use case scen
   ```
 2. Review the result.
 
-[![Threat Intelligence Prompt 2](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%202.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%202.png)
+[![Threat Intelligence Prompt 2](../Images/Threat%20intellogence%20prompt%202.png)](../Images/Threat%20intellogence%20prompt%202.png)
 
 *Expectation: Summarization of recent CVEs published by the NVD in the last week.*
 
@@ -47,7 +47,7 @@ This module guides you through how to use Copilot for Security for use case scen
   ```
 4. Review the result.
 
-[![Threat Intelligence Prompt 3](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%203.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%203.png)
+[![Threat Intelligence Prompt 3](../Images/Threat%20intellogence%20prompt%203.png)](../Images/Threat%20intellogence%20prompt%203.png)
 
 *Expectation: Summarization of technologies impacted by the CVE.*
 
@@ -58,7 +58,7 @@ This module guides you through how to use Copilot for Security for use case scen
   ```
 6. Review the result.
 
-[![Threat Intelligence Prompt CVE](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%20CVE.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%20CVE.png)
+[![Threat Intelligence Prompt CVE](../Images/Threat%20intellogence%20prompt%20CVE.png)](../Images/Threat%20intellogence%20prompt%20CVE.png)
 
 *Expectation: Recommendations of actions to protect against CVE.*
 
@@ -71,7 +71,7 @@ This module guides you through how to use Copilot for Security for use case scen
 
 2. Review the result.
 
-[![Threat Intelligence Prompt 4](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%204.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Threat%20intellogence%20prompt%204.png)
+[![Threat Intelligence Prompt 4](../Images/Threat%20intellogence%20prompt%204.png)](../Images/Threat%20intellogence%20prompt%204.png)
 
 *Expectation: Information on threat actor and associated CVEs.*
 
@@ -84,8 +84,8 @@ This module guides you through how to use Copilot for Security for use case scen
 
 4. Review the result.
 
-[![Suspicious Promptbook 5](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/IOCThreatactors.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/IOCThreatactors.png)
+[![Suspicious Promptbook 5](../Images/IOCThreatactors.png)](../Images/IOCThreatactors.png)
 
 *Expectation: List of indicators associated with the threat actor.*
 
-Click [here](https://aka.ms/CfSModule4) to complete the next Module.
+Click [here](Module-4-Summarization-of-data.md) to complete the next Module.
