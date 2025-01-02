@@ -37,42 +37,42 @@ The procedure will utilize a pre-existing Logic App template. Your only requirem
 
 1. After clicking on the **Deploy** button, you will be directed to the Microsoft Azure Portal. You will need to select a **Resource Group** (you can use the same resource group that you set up for the Copilot for Security instance), **Region**, and **Email** (please ensure this is the email where you want the report to be sent).
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy1.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy1.png)
+[![Deploy Image](../Images/deploy1.png)](../Images/deploy1.png)
 
 
 2. After entering the details, click on the **Review and create** button, followed by the **Create** button.
 
 3. Once this is done, you will receive a notification that the logic app has been successfully deployed and is complete.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy2.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy2.png)
+[![Deploy Image](../Images/deploy2.png)](../Images/deploy2.png)
 
 4. Click on the resource named **ThreatBulletinCopilot** to navigate to the Logic App page.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy3.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy3.png)
+[![Deploy Image](../Images/deploy3.png)](../Images/deploy3.png)
 
 5. On the Logic App page, click on **Development Tools** and then select **Logic App Designer**.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy5.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy5.png)
+[![Deploy Image](../Images/deploy5.png)](../Images/deploy5.png)
 
 
 6. You will now see the Logic App in its design phase.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy6.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy6.png)
+[![Deploy Image](../Images/deploy6.png)](../Images/deploy6.png)
 
 
 7. The next step is to authenticate the Copilot prompts with a user who has access to Copilot for Security and authenticate with an email to allow the disbursement of the report once the summary has been created by Copilot for Security.
 To do this, proceed to **API Connections** in the menu.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy7.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy7.png)
+[![Deploy Image](../Images/deploy7.png)](../Images/deploy7.png)
 
 9. Select the provided API connections, starting with the **Copilot for Security** connection. This will open a new window. Under the **General** section, select **Edit API Connection** and then click on the **Authorize** button.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy8.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy8.png)
+[![Deploy Image](../Images/deploy8.png)](../Images/deploy8.png)
 
 
 10. After clicking on **Authorize**, a new window will appear asking you to sign in with the user credentials for Copilot for Security. Once you provide the **Credentials** it will then authenticate , the next action is to click on the **Save** button .
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy9.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy9.png)
+[![Deploy Image](../Images/deploy9.png)](../Images/deploy9.png)
 
 
 11. Repeat the same actions for the next connection, **Office365-ThreatBulletinCopilot**.
@@ -81,11 +81,11 @@ To do this, proceed to **API Connections** in the menu.
 
 12. After finishing this , Navigate back to the logic app Overview page and Click on the **Run** Button to start the logic app.
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy10.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy10.png)
+[![Deploy Image](../Images/deploy10.png)](../Images/deploy10.png)
 
 After successfully running the Logic app , you should be surfaced with an image showing a succesfull run when you on the overview page .
 
-[![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy11.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy11.png)
+[![Deploy Image](../Images/deploy11.png)](../Images/deploy11.png)
 
 
 #### Review the outcome of the Logic app run 
@@ -97,17 +97,17 @@ The primary objective is to showcase a summary of the latest threat intelligence
 
    - Sign in and click on the **Sessions** tab in the menu.
   
-   [![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy12.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy12.png)
+   [![Deploy Image](../Images/deploy12.png)](../Images/deploy12.png)
    
    - You will see the latest session showing the logic app run. Click on it to view the outcome in a copilt for Security Session
 
-   [![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy13.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy13.png)
+   [![Deploy Image](../Images/deploy13.png)](../Images/deploy13.png)
    
    - Outcome of the report ( summarized Threat bulletins )
   
-   [![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy14.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy14.png)
+   [![Deploy Image](../Images/deploy14.png)](../Images/deploy14.png)
 
-   [![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/Threatbuletin2.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/Threatbuletin2.png)
+   [![Deploy Image](../Images/Threatbuletin2.png)](../Images/Threatbuletin2.png)
 
    
 
@@ -115,7 +115,7 @@ The primary objective is to showcase a summary of the latest threat intelligence
    - Check the email where the report generated by the Copilot for Security run was sent.
    - Go to the designated email inbox and open the latest email message.
      
-   [![Deploy Image](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy15.png)](https://github.com/jmf321/CfS-Hands-On-Lab/blob/main/Images/deploy15.png)
+   [![Deploy Image](../Images/deploy15.png)](../Images/deploy15.png)
 
 
 ---
@@ -132,5 +132,5 @@ The primary objective is to showcase a summary of the latest threat intelligence
 
 #### Beginner and Advanced Modules are now complete!
 You now have 2 options:
-1. Click [here](https://aka.ms/CFSDeleteSCU) to go to the delete SCU module and finish the course. You may re-install Security Copilot at a later date if you wish to continue on to the additional modules. 
+1. Click [here](Deleting-SCU.md) to go to the delete SCU module and finish the course. You may re-install Security Copilot at a later date if you wish to continue on to the additional modules. 
 2. Click [here](AdditionalSCUs) to continue on to the additional modules and add the extra SCUs needed.
