@@ -1,4 +1,4 @@
-# Welcome to Security Copilot Hands On Lab - POC
+# Welcome to Security Copilot Hands On Lab
 
 ![Security CoPilot Logo](https://github.com/Azure/Copilot-For-Security/blob/main/Images/ic_fluent_copilot_64_64%402x.png)
 
