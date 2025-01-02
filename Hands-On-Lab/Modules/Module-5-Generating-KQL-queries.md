@@ -12,7 +12,7 @@ This module guides you through how to use Copilot for Security for use case scen
 - You must have completed Module 1 or have an existing instance of Copilot For Security installed. If you do not have a working instance of Copilot for Security, please [click here to complete Module 1](..Modules/Module-1-Setting-up-the-the-environment.md#module-1---setting-up-the-environment).
 - The plugin for NL2KQL plugins to be enabled to allow for the Query Generation, for this one we shall be using the plugin that creates Defender KQL queries. This plugin should be enabled by default but please ensure this has been done by going to the "**Manage Sources**" and confirming. If not enabled, please toggle the plugin to the On position.
   
-[![NL2KQL](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/NL2kqlpluginenabled.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/NL2kqlpluginenabled.png)
+[![NL2KQL](../Images/NL2kqlpluginenabled.png)](../Images/NL2kqlpluginenabled.png)
 
 ### Exercise 1: Using Copilot for Security to Generate queries 
 1. Access the Prompt Bar
@@ -23,7 +23,7 @@ Using Defender generate a KQL query showing me how to hunt for brute force attac
 ```
 2. Review the result 
 
-[![NLKQLtwotwo](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/NL2kqlpluginenabled2.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/NL2kqlpluginenabled2.png)
+[![NLKQLtwotwo](../Images/NL2kqlpluginenabled2.png)](../Images/NL2kqlpluginenabled2.png)
 
 
 **Note**
@@ -38,6 +38,6 @@ Copilot for Security Is an Ecosystem, and in the result it proceeds to not only 
 /AskGPT Can you explain what this query is achieving // Filter for sign-in logs ingested within the last day SecurityNestedRecommendation | where RemediationDescription has 'CVE-2021-44228' | parse ResourceDetails with * 'virtualMachines/' VirtualMachine '"' * | summarize arg_min(TimeGenerated, *) by TenantId, RecommendationSubscriptionId, VirtualMachine, RecommendationName,Description,RemediationDescription, tostring(AdditionalData),VulnerabilityId | extend Timestamp = TimeGenerated
 ```
 2. Review the result 
-[![nl2KQLexplain](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/nl2KQLexplain.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/nl2KQLexplain.png)
+[![nl2KQLexplain](../Images/nl2KQLexplain.png)](../Images/nl2KQLexplain.png)
 
-Click [here](https://aka.ms/CfSModule6) to complete the next Module.
+Click [here](Module-6-Knowledge-base-in-Copilot-for-Security.md) to complete the next Module.
