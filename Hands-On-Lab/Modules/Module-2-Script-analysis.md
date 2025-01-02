@@ -30,7 +30,7 @@ Throughout the exercises during this hands on lab you will notice some prompts w
 4. **Scroll to the Prompt Bar:**
    - Scroll down to the bottom of the portal.
    - Click on the "Prompts" icon located in the prompt bar.
-   [![Suspicious Promptbook](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Suspicious%20promptbook%201.png)](https://github.com/jmf321/CfS-Hands-On-Training/blob/main/Images/Suspicious%20promptbook%201.png)
+   [![Suspicious Promptbook](../Images/Suspicious%20promptbook%201.png)](../Images/Suspicious%20promptbook%201.png)
 
 5. **Select the Promptbook:**
    - Click on the "Promptbooks" section.
