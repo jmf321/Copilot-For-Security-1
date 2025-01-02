@@ -20,10 +20,10 @@ In this technical workshop, participants will learn how to upload a file to Copi
 
 1. Check that the file you're about to upload is a common text file type like DOCX, MD, PDF, and TXT formats, and that each file doesn't exceed 3 MB. You can upload files up to 20 MB in total.
 2. In the Copilot home page, select the sources icon in the prompt bar to open the Manage sources page.
-3. Select "Files" to open the file upload section. You can use the sample files from the following [SampleFiles folder](../tree/main/SampleFiles) 
+3. Select "Files" to open the file upload section. You can use the sample files from the following [SampleFiles folder](../SampleFiles) 
 
 
-![Kb1 Image](https://github.com/jmf321/CfS-Hands-On-Training/raw/main/Images/Kb1.png)
+![Kb1 Image](../Images/Kb1.png)
 
 4. Select "Upload file" to look for your file. For this workshop, we will use the following sample file:
    - Hunt Evil Poster SANS (SANS_DFPS_FOR508_v4.10_02-23 (1).pdf)
@@ -61,4 +61,4 @@ Leveraging the above event IDs, hunt my defender environment for any events asso
 
 ![Hunt Evil Poster 2](https://github.com/Azure/Copilot-For-Security/blob/main/Images/KB%20Images/huntevilfileupload2.png)
 
-Click [here](https://aka.ms/CfSModule7) to complete the next Module.
+Click [here](Module-7-Microsoft-Sentinel-Copilot-For-Security-Scenarios.md) to complete the next Module.
